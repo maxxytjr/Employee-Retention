@@ -55,3 +55,6 @@ The dataset has **14249** observations for past/present employees, spanning over
   * `satisfaction` - Score for employee's satisfaction with the company (higher the better)
   * `last_evaluation` - Score for the most recent evaluation of employee (higher the better)
   * `filed_complaint` - If the employee has filed a formal complaint within the last 3 years
+
+## Credits
+Credits to the [EliteDataScience](https://elitedatascience.com/) team for providing the supplementary code.
